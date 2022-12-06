@@ -1,5 +1,6 @@
 var numberOfDrum = document.querySelectorAll(".drum").length;
 
+// the logic of click
 for ( var i = 0; i < numberOfDrum; i++) {
     document.querySelectorAll(".drum")[i].addEventListener("click", function () { 
       var buttonInnerHTML = this.innerHTML; 
@@ -9,6 +10,7 @@ for ( var i = 0; i < numberOfDrum; i++) {
 
 }
 
+// the logic of press button
 document.addEventListener("keydown", function(event) {
     makeSound(event.key);
     buttonAnimation(event.key)
