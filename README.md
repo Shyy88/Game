@@ -13,3 +13,5 @@
 >Website where you may play the drums online.
 
 ![drum kit](https://user-images.githubusercontent.com/114661886/204698570-7b95a368-50eb-4e4f-8004-32179f1dfbac.png)
+## Credits
+- [Angela Yu](https://github.com/angelabauer)
